@@ -1,5 +1,5 @@
 
 Git is a distributed version control system.
-Git is free softwar.
+Git is free softwar.That's really owesome.
 Git is really very useful especially for a team.
 Now I'm enjoying Git. It's really excellent and very convenient.
