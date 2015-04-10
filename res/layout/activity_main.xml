@@ -1,0 +1,22 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" 
+   >
+   <!-- 注意没必要在它的parent layout中设置背景，可以直接设置GridView的背景,之前的背景设置为  android:background="@android:color/holo_blue_light" -->
+    <GridView 
+        android:id="@+id/grid"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/divider_list"
+        android:columnWidth="120dp"
+        android:numColumns="auto_fit"
+        android:verticalSpacing="1dp"
+        android:horizontalSpacing="1dp"
+        android:stretchMode="columnWidth"
+        android:gravity="center"  
+        />
+    
+
+</RelativeLayout>
