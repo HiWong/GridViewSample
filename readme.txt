@@ -4,4 +4,4 @@ Git is a distributed version control system.
 Git is free softwar.
 Git is really very useful especially for a team.
 I'm really enjoy it now.
-Hope you will enjoy it,too. Because there are a lot of developers love it.
+Hope you will enjoy it,too. Because it's really excellent and there are a lot of developers love it.
